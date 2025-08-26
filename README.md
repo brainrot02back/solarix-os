@@ -35,7 +35,7 @@ to draw a simple GUI environment with windowing and basic terminal interaction.
 
 ### 👨‍💻 Authors:
 - **brainz**
-- **Drexxy**
+- **Drexxy** dosent work with me anymore
 
 Created: **July 2025**  
 Version: **1.0.1 GUI Alpha**
