@@ -43,7 +43,7 @@ to draw a simple GUI environment with windowing and basic terminal interaction.
 Created: **July 2025**  
 Version: **1.0.2 Console Alpha**
 
-> Official release expected **before the end of summer break 2025**
+> Official release expected **before the end of summer break 2027**
 
 ---
 
