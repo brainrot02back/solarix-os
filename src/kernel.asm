@@ -6,9 +6,6 @@ call print_string
 
 mov si, msg2       
 call print_string
-   
-mov si, msg3   
-call print_string
 
 jmp $
 
@@ -32,4 +29,3 @@ print_string:
 
 file db "KERNEL.BIN", 0x0D, 0x0A, 0
 msg2 db "welcome to solarix os", 0x0D, 0x0A, 0
-msg3 db "conspiracy pegs me every night <3", 0x0D, 0x0A, 0
