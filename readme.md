@@ -11,3 +11,5 @@ A simple QEMU OS made in x86 assembly.
 ## info 
 > Created: **July 2025**  
 > Version: **1.0.0 Console Alpha**
+
+## preview 
