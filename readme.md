@@ -13,3 +13,4 @@ A simple QEMU OS made in x86 assembly.
 > Version: **1.0.0 Console Alpha**
 
 ## preview 
+![preview](preview.png)
