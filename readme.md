@@ -6,7 +6,7 @@ A simple QEMU OS made in x86 assembly.
 ## developers:
 
 - **brainz**
-- **ellii**
+- **ellie**
 
 ## info 
 > Created: **July 2025**  
